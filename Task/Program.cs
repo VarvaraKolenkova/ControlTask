@@ -9,7 +9,7 @@ void SelectionArray(string[] array, string[]newarray)
     }
 }
 
-string[] array = new string[9] {"оn", "1235", "the", "sun", "clock", "+30", "melody", "?", "yes"};
-string[] newarray = new string[array.Length];
-SelectionArray(array, newarray);
+string[] arr = new string[9] {"оn", "1235", "the", "sun", "clock", "+30", "melody", "?", "yes"};
+string[] newarr = new string[arr.Length];
+SelectionArray(arr, newarr);
 
